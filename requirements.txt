@@ -1,0 +1,5 @@
+appdirs==1.4.0
+Django==1.9
+keyring==10.2
+pygubu==0.9.7.9
+wheel==0.26.0
